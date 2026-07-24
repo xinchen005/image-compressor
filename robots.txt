@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xinchen005.github.io/image-compressor/sitemap.xml
